@@ -1,0 +1,90 @@
+body{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 50px;
+}
+.parte-superior
+{
+    background-color: #e1212f;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 100%;
+    margin: 0px auto;
+    height: 80px;
+}
+.barra-suroc h1{
+    font-family: 20px;
+    color: #ffff;
+    margin-right: 150px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+.navegacion ul{
+    float: right;
+    margin-right: 150px;
+    margin-top: 15px;
+    font-size: 23px;
+}
+.navegacion ul li a{
+    color: white;
+}
+section
+{height: 450px;}
+
+article
+{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.con-img
+{
+    height: 450px;
+}
+
+.con-img figure img
+{
+    width: 100%;
+    height: 320px;
+    margin-top: 50px;
+}
+
+.con-txt
+{
+    height: 450px;
+}
+
+.con-txt .titulo h1
+{
+    margin-left: 7px;
+}
+
+.con-txt .text
+{
+    margin-top: 70px;
+    text-align: center;
+    margin-left: 8px;
+    font-size: 20px;
+
+}
+
+footer
+{
+    background-color: #e1212f;
+    padding: 10px;
+    width: 100%;
+    height: 150px;
+}
+.pie
+{
+    width: 60%;
+    margin: 20px auto;
+}
+footer address p
+{
+    text-align: center;
+    margin: -1px;
+    color: white;
+    font-size: 20px;
+}
+
