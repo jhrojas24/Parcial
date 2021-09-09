@@ -123,3 +123,19 @@ footer address p
     margin-top: 25px;
     font-size: 25px;
 }
+#img-cauca
+{
+    width: 65%;
+    margin-left: 100px;
+}
+#cau
+{
+    text-decoration: none;
+    color: white;
+}
+#cau p
+{
+    margin-top: 25px;
+    margin-left: 45px;
+
+}
