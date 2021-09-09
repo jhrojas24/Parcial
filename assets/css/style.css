@@ -87,4 +87,19 @@ footer address p
     color: white;
     font-size: 20px;
 }
-
+#img-valle
+{
+    width: 50%;
+    margin-left: 100px;
+}
+#vall 
+{
+    color: white;
+    text-decoration: none;
+}
+#vall p
+{
+    margin-left: 50px;
+    margin-top: 25px;
+    font-size: 25px;
+}
